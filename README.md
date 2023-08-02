@@ -64,7 +64,7 @@ This project is Leaderboard microvers which will be used for learning in the mic
 
 # LIVE DEMO 
 
-- [] coming soon
+- [click-here](#https://axcell-0.github.io/Leaderboard/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,7 +112,7 @@ To run the project, execute the following command:
 
 -then
 
-  npm run dev
+  npm start
 
 
 ### Run tests
