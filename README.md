@@ -62,10 +62,6 @@ This project is Leaderboard microvers which will be used for learning in the mic
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# LIVE DEMO 
-
-- [click-here](#https://axcell-0.github.io/Leaderboard/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
